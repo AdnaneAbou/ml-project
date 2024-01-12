@@ -95,8 +95,8 @@ class DataIngestion:
         
           
         try:  
-            # api = YoutubeAPI(api_key='AIzaSyATYkThBen84s6upBXF4cut_9sZ_FbPgbM') 
-            api_ =  YoutubeAPI(api_key='AIzaSyB7eJGSt8grsTW7TaoorfN_9o81SDF5rvU')
+            # api = YoutubeAPI(api_key='GOOGLE_API_KEY') 
+            api_ =  YoutubeAPI(api_key='GOOGLE_API_KEY')
             # Do the First API call function to get list of channel_ids 
             # api.get_all_videos(query ,database_name, collection_name_store)
 
