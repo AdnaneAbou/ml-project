@@ -10,10 +10,6 @@ from src.components.data_transformation import DataTransformationConfig
 from src.database.youtube_api.youtube_api import YoutubeAPI
 import time 
 from src.database.database import Database 
-
-
-# --------------------------------
-
 from src.components.model_trainer import ModelTrainerConfig
 from src.components.model_trainer import ModelTrainer
 from src.utils import json_to_dataframe , extract_channel_information
