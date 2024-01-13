@@ -1,8 +1,0 @@
-GOOGLE_API_KEY = AIzaSyDL1YcodQjnLFurj-3lilMK6kJEUmcWTUw
-another_api_key = AIzaSyBAgWOWdNTHCijqWFAQOsA2wJFxopPNiOY
-GOOGLE-API-EY = AIzaSyB7eJGSt8grsTW7TaoorfN_9o81SDF5rvU
-acc1 = AIzaSyATYkThBen84s6upBXF4cut_9sZ_FbPgbM
-acc2 = AIzaSyAtxJNblP0bwOzCC08aqBcL9SmejaEt-_w
-acc3 = AIzaSyAXbHs7MrvfbOd54Q9lmHHsvxmXA1KRH1M
-acc4 = AIzaSyBT5I_Aa3qfp1rlegRS1xTyByv2OC7BBN4
-acc5 = AIzaSyCGOJgDMH8Qg4c-HAvrveFVbs77o5dMpYM
